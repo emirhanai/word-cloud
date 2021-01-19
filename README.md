@@ -18,7 +18,7 @@ word_cloud
 ==========
 
 A little word cloud generator in Python. Read more about it on the [blog
-post][blog-post] or the [website][website].
+post][blog-post] or the [türkiye yapay zeka][türkiye yapay zeka].
 
 The code is tested against Python 2.7, 3.4, 3.5, 3.6 and 3.7.
 
@@ -77,7 +77,7 @@ In the previous example, the `-` argument orders `pdftotext` to write the result
 Use `wordcloud_cli --help` so see all available options.
 
 [blog-post]: https://turkiyeyapayzeka.com
-[website]: https://turkiyeyapayzeka.com
+[türkiye yapay zeka]: https://turkiyeyapayzeka.com
 [simple]: examples/simple.py
 [masked]: examples/masked.py
 [reddit-cloud]: https://turkiyeyapayzeka.com
