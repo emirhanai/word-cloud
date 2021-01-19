@@ -76,18 +76,18 @@ In the previous example, the `-` argument orders `pdftotext` to write the result
 
 Use `wordcloud_cli --help` so see all available options.
 
-[blog-post]: http://peekaboo-vision.blogspot.de/2012/11/a-wordcloud-in-python.html
-[website]: http://amueller.github.io/word_cloud/
+[blog-post]: https://turkiyeyapayzeka.com
+[website]: https://turkiyeyapayzeka.com
 [simple]: examples/simple.py
 [masked]: examples/masked.py
-[reddit-cloud]: https://github.com/amueller/reddit-cloud
-[wc2]: http://www.reddit.com/user/WordCloudBot2
-[wc2top]: http://www.reddit.com/user/WordCloudBot2/?sort=top
-[chat-stats]: https://github.com/popcorncolonel/Chat_stats
-[twitter-word-cloud-bot]: https://github.com/defacto133/twitter-wordcloud-bot
-[twitter-wordnuvola]: https://twitter.com/wordnuvola
-[imgur-wordnuvola]: http://defacto133.imgur.com/all/
-[intprob]: http://peekaboo-vision.blogspot.de/2012/11/a-wordcloud-in-python.html#bc_0_28B
+[reddit-cloud]: https://turkiyeyapayzeka.com
+[wc2]: https://turkiyeyapayzeka.com
+[wc2top]: https://turkiyeyapayzeka.com
+[chat-stats]: https://turkiyeyapayzeka.com
+[twitter-word-cloud-bot]: https://turkiyeyapayzeka.com
+[twitter-wordnuvola]: https://turkiyeyapayzeka.com
+[imgur-wordnuvola]: https://turkiyeyapayzeka.com
+[intprob]: https://turkiyeyapayzeka.com
 
 
 ## Licensing
